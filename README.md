@@ -49,8 +49,13 @@ on Postman ,this API provids Methods like:
 .Put -> localhost:8080/api/{user or company}/promotions/:id -> to update the promo with the specified id
 .GET -> localhost:8080/api/{user or company}/promotions/:id -> to GET the promo with the specified id
 .Delete -> localhost:8080/api/{user or company}/promotions/:id ->  to Delete the promo with the specified id
-## Conclusion 
 
+## Reflections yet to come!
+
+* implementing it with GRPC 
+* Adding AUth with Outh2
+
+## Conclusion 
 If you have anything to add to this, please send in a PR as it will no longer be actively maintained by [me](https://github.com/MahmoudMekki).
 
 
