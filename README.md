@@ -55,8 +55,7 @@ on Postman ,this API provids Methods like:
 * implementing it with GRPC 
 * Adding AUth with Outh2
 
-## Conclusion 
-If you have anything to add to this, please send in a PR as it will no longer be actively maintained by [me](https://github.com/MahmoudMekki).
+
 
 
 
